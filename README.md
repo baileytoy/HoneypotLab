@@ -1,4 +1,4 @@
-# 🛡️🌐 SOC-Honeylab Homelab 🚀🔒
+# 🛡️🌐 SOC-Honeynet Homelab 🚀🔒
 ![322930551-ca6ef315-dcbf-4176-b90f-c46a6bbf0459](https://github.com/baileytoy/SOC-Honeynet/assets/172320876/ad0781e9-9c25-4784-9fdf-465a6503e14d)
 
 ## Introduction
