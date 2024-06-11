@@ -1,1 +1,1 @@
-# HoneypotLab
+# SOC-Honeylab Homelab
